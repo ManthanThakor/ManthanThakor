@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manthan Thakor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img algn="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=0e75b6&style=flat" alt="manthanthakor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanthakor" alt="manthanthakor" /></a> </p>
