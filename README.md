@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img  src="lv_0_20240703135801 (1).gif" style="width: 100%; height: 400px;" />
+  <img aligh-center src="lv_0_20240703135801 (1).gif" style="width: 100%; height: 400px;" />
 </div>
 
 
