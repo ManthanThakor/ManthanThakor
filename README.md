@@ -1,3 +1,20 @@
+![Description of GIF](URL_to_your_GIF)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Manthan Thakor</h1>
 <h3  align="center">A passionate frontend developer from India</h3>
 
