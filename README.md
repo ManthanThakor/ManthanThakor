@@ -65,11 +65,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ManthanThakor&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManthanThakor&theme=chartreuse-dark&hide_border=false) |
+|---|---|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | |
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ManthanThakor&theme=chartreuse-dark&no-frame=false&no-bg=true&margin-w=4)
