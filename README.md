@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="lv_0_20240703135801 (1).gif" width="100%" height="400px" />
-</p>
-
-
-
+<div style="position: relative;">
+  <img src="lv_0_20240703135801 (1).gif" style="width: 100%; height: 400px;" />
+  <div style="position: absolute; top: 0; right: 0;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge-query&query_only=true" alt="visitor badge" />
+  </div>
+</div>
 
 
 
