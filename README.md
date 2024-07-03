@@ -7,7 +7,7 @@
 
 <div style="position: relative;">
 <p align="center">
-  <img src="Photoroom-20240703_230752.png" width="100%" />
+  <img src="quality_restoration_20240703230608648.jpg" width="100%" />
 </p>
 <hr>
 ## 💫 About Me:
