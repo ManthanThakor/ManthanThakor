@@ -23,10 +23,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Manthan Thakor</h1>
-<h3  align="center">A passionate frontend developer from India</h3>
-
-<img algn="right" alt="coding" width="100%" height="400px" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=0e75b6&style=flat" alt="manthanthakor" /> </p>
 
