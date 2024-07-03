@@ -1,5 +1,6 @@
-<div>
-  <img src="lv_0_20240703004324.gif"  width="100%" height="400px" alt="Hi 👋, I'm Manthan Thakor" />
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+  <img src="lv_0_20240703004324.gif" width="100%" height="400px" alt="Hi 👋, I'm Manthan Thakor" 
+       style="border-radius: 15px; border: 5px solid; border-color: #00ff00; box-shadow: 0 0 20px #00ff00;"/>
 </div>
 
 
