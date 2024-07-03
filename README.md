@@ -9,15 +9,14 @@
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
 </p>
-  
+<hr>
 # 💫 About Me:
 
 💻 Experienced Frontend Developer proficient in React.<br>🌐 Strong grasp of modern web development principles.<br>🖥️ Skilled in creating dynamic and responsive user interfaces.<br>🌟 Dedicated to delivering high-quality, engaging user experiences.<br>📚 Continuously learning and adapting to new technologies.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthurocks950) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-thakor-060271270/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:thakormanthan849@gmail.com) [![Mobile](https://img.shields.io/badge/Mobile-%230077B5.svg?logo=phone&logoColor=white)](tel:+91-8347255758)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthurocks950) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-thakor-060271270/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:thakormanthan849@gmail.com) 
 
 
 # 💻 Tech Stack:
