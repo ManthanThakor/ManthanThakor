@@ -7,7 +7,7 @@
 
 <div style="position: relative;">
 <p align="center">
-  <img src="quality_restoration_20240703230608648.jpg" width="100%" />
+  <img src="Photoroom-20240703_230709.png" width="100%" />
 </p>
 <hr>
 
