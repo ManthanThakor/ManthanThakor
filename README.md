@@ -11,13 +11,29 @@
 </p>
 <hr>
 
+<div align="center">
+
 ## 💫 About Me
 
-- 💻 **Experienced Frontend Developer** proficient in React
-- 🌐 **Strong grasp of modern web development principles**
-- 🖥️ **Skilled in creating dynamic and responsive user interfaces**
-- 🌟 **Dedicated to delivering high-quality, engaging user experiences**
-- 📚 **Continuously learning and adapting to new technologies**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>💻 <strong>Experienced Frontend Developer</strong> proficient in React</li>
+        <li>🌐 <strong>Strong grasp of modern web development principles</strong></li>
+        <li>🖥️ <strong>Skilled in creating dynamic and responsive user interfaces</strong></li>
+        <li>🌟 <strong>Dedicated to delivering high-quality, engaging user experiences</strong></li>
+        <li>📚 <strong>Continuously learning and adapting to new technologies</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthurocks950) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-thakor-060271270/) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:thakormanthan849@gmail.com) 
