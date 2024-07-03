@@ -1,5 +1,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManthanThakor.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=0e75b6&style=flat" alt="manthanthakor" /> </p>
+
 <div style="position: relative;">
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
@@ -11,7 +13,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=0e75b6&style=flat" alt="manthanthakor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manthanthakor" alt="manthanthakor" /></a> </p>
 
