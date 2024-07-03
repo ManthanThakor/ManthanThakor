@@ -88,7 +88,13 @@
 
 </div>
 
+<div align="center">
 
+## 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+</div>
 
 
 
