@@ -3,21 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
 
-<!-- Glowing Line -->
-<p align="center">
-  <svg height="10" width="100%">
-    <defs>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="100%" height="10" style="fill:blue; filter:url(#glow);" />
-  </svg>
-</p>
+
 <hr style="border: none; height: 1px; background: linear-gradient(to right, red, yellow); box-shadow: 0 0 10px red;">
 <div style="position: relative;">
 <p align="center">
