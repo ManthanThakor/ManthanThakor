@@ -1,6 +1,6 @@
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=blue&style=plastic" alt="manthanthakor" /> 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=white&style=plastic" alt="manthanthakor" /> 
 </p>
 
 <div style="position: relative;">
