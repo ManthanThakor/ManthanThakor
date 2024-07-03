@@ -4,13 +4,7 @@
 </p>
 
 <hr class="custom-hr">
-# My Markdown Document
 
-<style>
-.custom-hr {
-  border: 2px solid purple;
-}
-</style>
 <div style="position: relative;">
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
