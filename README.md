@@ -9,7 +9,9 @@
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
 </p>
+  
 # 💫 About Me:
+
 💻 Experienced Frontend Developer proficient in React.<br>🌐 Strong grasp of modern web development principles.<br>🖥️ Skilled in creating dynamic and responsive user interfaces.<br>🌟 Dedicated to delivering high-quality, engaging user experiences.<br>📚 Continuously learning and adapting to new technologies.
 
 
@@ -29,7 +31,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ManthanThakor&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=ManthanThakor&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
