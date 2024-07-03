@@ -1,10 +1,4 @@
 
-<div style="display: flex; justify-content: center;">
-  <img src="lv_0_20240703004324.gif" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0, 255, 0, 0.7);"/>
-</div>
-<div style="display: flex; justify-content: center;">
-  <img src="lv_0_20240703004324.gif" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0, 255, 0, 0.7);"/>
-</div>
 
 
 
