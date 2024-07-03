@@ -1,6 +1,7 @@
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ManthanThakor.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20viewscolor=red&color=red&style=flat" alt="manthanthakor" /> </p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=blue&style=plastic" alt="manthanthakor" /> 
+</p>
 
 <div style="position: relative;">
 <p align="center">
