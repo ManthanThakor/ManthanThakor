@@ -90,11 +90,10 @@
 
 <div align="center">
 
-## 🐍 GitHub Contribution Snake
+## 📈 GitHub Contributions
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ManthanThakor&hide=stars,prs,issues,contribs&theme=chartreuse-dark)
 
 </div>
-
 
 
