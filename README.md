@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
 
-<hr style="border: none; height: 2px; background-color: red; box-shadow: 0 0 10px red;">
+<hr style="border: 1px solid red;">
 
 <div style="position: relative;">
 <p align="center">
