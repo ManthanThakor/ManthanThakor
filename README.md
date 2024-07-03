@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://example.com/path_to_your_gif.gif" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0, 255, 0, 0.7);"/>
+  <img src="manthurocks.gif.gif" style="border-radius: 20px; box-shadow: 0 0 15px rgba(0, 255, 0, 0.7);"/>
 </div>
 
 
