@@ -3,8 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
 
-<hr style="border: 1px solid red;">
-
+<hr class="custom-hr">
+.custom-hr {
+  border: 2px solid green;
+}
 <div style="position: relative;">
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
