@@ -1,5 +1,5 @@
 <div>
-  <img sec="lv_0_20240703004324.gif" />
+  <img sec="lv_0_20240703004324.gif" alt="Hi 👋, I'm Manthan Thakor" />
 </div>
 
 
