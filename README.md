@@ -7,7 +7,7 @@
 
 <div style="position: relative;">
 <p align="center">
-  <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
+  <img src="Photoroom-20240703_230752.png" width="100%" />
 </p>
 <hr>
 ## 💫 About Me:
