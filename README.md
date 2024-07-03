@@ -1,6 +1,6 @@
 
 <div style="display: flex; justify-content: center;">
-  <img src="lv_0_20240703135801 (1).gif" height:500px; style="border-radius: 20px; box-shadow: 0 0 15px rgba(0, 255, 0, 0.7);"/>
+  <img src="lv_0_20240703135801 (1).gif"  style="height:500px; "/>
 </div>
 
 
