@@ -1,3 +1,5 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your_username.your_repo_name&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 <div style="position: relative;">
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
