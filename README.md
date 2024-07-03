@@ -2,11 +2,8 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
-<p align="center">
-  <img src="608911d758e873cb0dbd556a668a95c9-removebg-preview.png" width="100%" alt="glowing line" />
-</p>
 
-<hr style="border: none; height: 1px; background: linear-gradient(to right, red, yellow); box-shadow: 0 0 10px red;">
+<hr style="border: none; height: 2px; color:re; box-shadow: 0 0 10px red;">
 <div style="position: relative;">
 <p align="center">
   <img src="lv_0_20240703135801 (1).gif" width="100%" height="450px" />
