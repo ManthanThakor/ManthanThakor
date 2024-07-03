@@ -1,11 +1,5 @@
 <div>
-  <svg width="100%" height="400px" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 20px; overflow: hidden; box-shadow: 0 0 20px 10px #00ff00;">
-        <img src="lv_0_20240703004324.gif" width="100%" height="400px" alt="Hi 👋, I'm Manthan Thakor" style="border-radius: 20px;" />
-      </div>
-    </foreignObject>
-  </svg>
+  <iframe src="https://ManthanThakor.github.io/ManthanThakor/styled-gif.html" width="100%" height="400px" frameborder="0"></iframe>
 </div>
 
 
