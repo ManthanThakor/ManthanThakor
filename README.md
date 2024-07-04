@@ -1,4 +1,3 @@
-<div style="background-color: #222;">
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
@@ -94,7 +93,6 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ManthanThakor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
 </div>
 
 
