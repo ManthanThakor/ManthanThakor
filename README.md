@@ -98,4 +98,5 @@
 <div align="center">
 
 ## 📈 GitHub Contributions Graph
-![GitHub Contributions](https://ghchart.rshah.org/ManthanThakor)
+![GitHub Contributions](https://github.com/ManthanThakor/ManthanThakor/blob/main/dark-theme-contributions.png)
+
