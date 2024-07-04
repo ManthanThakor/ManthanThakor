@@ -98,5 +98,5 @@
 <div align="center">
 
 ## 📈 GitHub Contributions Graph
-![GitHub Contributions](https://github.com/ManthanThakor/ManthanThakor/blob/main/dark-theme-contributions.png)
+![GitHub Contributions](https://github.com/ManthanThakor/your-repo-name/blob/main/path-to-your-dark-theme-image.png)
 
