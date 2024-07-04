@@ -37,7 +37,7 @@
 <!-- Cool Button -->
 <p align="center">
   <a href="https://manthanthakor.github.io/AboutMySelf/">
-    <img src="https://img.shields.io/badge/View-Other%20README-blue?style=for-the-badge" alt="View Other README">
+    <img src="https://img.shields.io/badge/More%20Details-blue?style=for-the-badge" alt="About me more">
   </a>
 </p>
 
