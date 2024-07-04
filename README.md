@@ -97,3 +97,5 @@
 </div>
 <div align="center">
 
+## 📈 GitHub Contributions Graph
+![GitHub Contributions](https://ghchart.rshah.org/ManthanThakor)
