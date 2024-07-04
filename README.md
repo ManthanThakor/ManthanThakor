@@ -87,13 +87,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ManthanThakor&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
 <div align="center">
 
-## 📈 GitHub Contributions
+## 🐍 GitHub Contribution Snake
 
-![Your GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ManthanThakor&hide=stars,prs,issues,contribs&theme=chartreuse-dark)
+![Snake animation](https://github.com/ManthanThakor/ManthanThakor/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
