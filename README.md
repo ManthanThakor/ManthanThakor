@@ -1,4 +1,9 @@
-
+<style>
+  body {
+    background-color: #222;
+    color: #fff; /* Text color */
+  }
+</style>
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=manthanthakor&label=Profile%20views&color=red&label_color=green&style="plastic" alt="manthanthakor" /> 
 </p>
