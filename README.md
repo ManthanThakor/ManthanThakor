@@ -36,7 +36,7 @@
 
 <!-- Cool Button -->
 <p align="center">
-  <a href="https://github.com/ManthanThakor/ManthanThakor/blob/main/OTHER_README.md">
+  <a href="https://manthanthakor.github.io/AboutMySelf/">
     <img src="https://img.shields.io/badge/View-Other%20README-blue?style=for-the-badge" alt="View Other README">
   </a>
 </p>
