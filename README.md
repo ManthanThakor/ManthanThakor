@@ -34,6 +34,14 @@
 
 </div>
 
+<!-- Cool Button -->
+<p align="center">
+  <a href="https://github.com/ManthanThakor/ManthanThakor/blob/main/OTHER_README.md">
+    <img src="https://img.shields.io/badge/View-Other%20README-blue?style=for-the-badge" alt="View Other README">
+  </a>
+</p>
+
+</div>
 <div align="center">
 
 ## 🌐 Socials:
