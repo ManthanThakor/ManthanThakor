@@ -89,8 +89,3 @@
 </div>
 <div align="center">
 
-## 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/ManthanThakor/ManthanThakor/blob/output/github-contribution-grid-snake.svg)
-
-</div>
