@@ -18,7 +18,7 @@
   <tr>
     <td>
       <ul>
-        <li>💻 <strong>Experienced Frontend Developer</strong> proficient in React</li>
+        <li>💻 <strong>Frontend Developer</strong> proficient in React</li>
         <li>🌐 <strong>Strong grasp of modern web development principles</strong></li>
         <li>🖥️ <strong>Skilled in creating dynamic and responsive user interfaces</strong></li>
         <li>🌟 <strong>Dedicated to delivering high-quality, engaging user experiences</strong></li>
