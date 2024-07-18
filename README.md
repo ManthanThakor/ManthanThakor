@@ -76,12 +76,12 @@
 
 # 📊 GitHub Stats
 
-| ![ManthanThakor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManthanThakor&show_icons=true&bg_color=00000000) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManthanThakor&theme=chartreuse-dark&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)  | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ManthanThakor&theme=chartreuse-dark&hide_border=false) |
 |---|---|
 
 <br/>
 
-| ![Top Language](https://gh-stats.vercel.app/api/top-langs/?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ManthanThakor&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 |---|
 
 </div>
