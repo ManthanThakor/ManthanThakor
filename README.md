@@ -18,11 +18,11 @@
   <tr>
     <td>
       <ul>
-        <li>💻 <strong>Frontend Developer</strong> proficient in React</li>
-        <li>🌐 <strong>Strong grasp of modern web development principles</strong></li>
-        <li>🖥️ <strong>Skilled in creating dynamic and responsive user interfaces</strong></li>
-        <li>🌟 <strong>Dedicated to delivering high-quality, engaging user experiences</strong></li>
-        <li>📚 <strong>Continuously learning and adapting to new technologies</strong></li>
+        <li>💻 <strong>Frontend Developer</strong> with a focus on React and enthusiasm for learning</li>
+         <li>🌐 <strong>Familiar with modern web development principles</strong></li>
+        <li>🖥️ <strong>Capable of creating dynamic and responsive user interfaces</strong></li>
+        <li>🌟 <strong>Enthusiastic about delivering engaging user experiences</strong></li>
+        <li>📚 <strong>Currently learning and growing in the MERN stack</strong></li>
       </ul>
     </td>
     <td>
