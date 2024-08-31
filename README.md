@@ -14,22 +14,23 @@
 
 ## 💫 About Me
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
       <ul>
         <li>💻 <strong>Frontend Developer</strong> with a focus on React and enthusiasm for learning</li>
-         <li>🌐 <strong>Familiar with modern web development principles</strong></li>
+        <li>🌐 <strong>Familiar with modern web development principles</strong></li>
         <li>🖥️ <strong>Capable of creating dynamic and responsive user interfaces</strong></li>
         <li>🌟 <strong>Enthusiastic about delivering engaging user experiences</strong></li>
         <li>📚 <strong>Currently learning and growing in the MERN stack</strong></li>
       </ul>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117mem3mcpxb8rdbqzz321ukjx63aoprb8j9g3s2z5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117mem3mcpxb8rdbqzz321ukjx63aoprb8j9g3s2z5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="max-width: 200px; height: auto;"/>
     </td>
   </tr>
 </table>
+
 
 </div>
 
