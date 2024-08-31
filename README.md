@@ -16,7 +16,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
+    <td style="width: 50%; padding: 10px; box-sizing: border-box;">
       <ul>
         <li>💻 <strong>Frontend Developer</strong> with a focus on React and enthusiasm for learning</li>
         <li>🌐 <strong>Familiar with modern web development principles</strong></li>
@@ -25,11 +25,12 @@
         <li>📚 <strong>Currently learning and growing in the MERN stack</strong></li>
       </ul>
     </td>
-    <td style="width: 50%; vertical-align: top; text-align: center;">
+    <td style="width: 50%; text-align: center; padding: 10px; box-sizing: border-box;">
       <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117mem3mcpxb8rdbqzz321ukjx63aoprb8j9g3s2z5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" style="max-width: 200px; height: auto;"/>
     </td>
   </tr>
 </table>
+
 
 
 </div>
