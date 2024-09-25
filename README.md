@@ -26,11 +26,7 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <td style="width: 50%; text-align: center; padding: 10px; box-sizing: border-box;" align="center">
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117mem3mcpxb8rdbqzz321ukjx63aoprb8j9g3s2z5&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width: 80%; max-width: 200px; height: auto;"/>
-    </td>
-  </tr>
+
 </table>
 
 
